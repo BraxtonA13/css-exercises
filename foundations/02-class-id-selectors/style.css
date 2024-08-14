@@ -1,0 +1,17 @@
+.hetero{
+    background-color: #ff0051;
+    font-family: verdana "DejaVu Sans" "sans-serif";
+    
+}
+#second{
+    color: #0f0fbb;
+    font-size: 36px;
+}
+.hetero.homo{
+    font-size: 24px;
+}
+#fourth{
+    background-color: #008000;
+    font-size: 24px;
+    font: bold;
+}
